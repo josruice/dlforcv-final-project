@@ -3,6 +3,7 @@
 data/
 cats-dogs-data/
 best_models/
+subcategories-data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
